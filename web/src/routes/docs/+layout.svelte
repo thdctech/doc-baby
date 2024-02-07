@@ -6,7 +6,7 @@ import Sidebar from "../../lib/components/sidebar.svelte";
 
 <Header/>
 <main>
-<Sidebar class="sidebar"/>
+<Sidebar/>
 <div class="content">
     <slot></slot>
 </div>
